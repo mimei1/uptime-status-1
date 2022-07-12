@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'For the world / XIGUA',
 
   // 站点链接
   SiteUrl: 'status.27sex.com',
@@ -11,7 +11,7 @@ window.Config = {
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见 https://github.com/yb/uptime-status/ 说明
-  ApiDomain: 'api.uptimerobot.com',
+  ApiDomain: 'odd-glitter-8b8f.mimei8.workers.dev',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -31,11 +31,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://status.27sex.com'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'Telegram',
+      url: 'https://t.me/mimei8'
     }
   ]
 };
